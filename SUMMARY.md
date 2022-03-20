@@ -32,3 +32,8 @@
 
 * [Hak Akses & Hak Milik](kuliah-kelima/hak-akses-and-hak-milik.md)
 * [Praktik Hak Milik & Hak Akses](kuliah-kelima/praktik-hak-milik-and-hak-akses.md)
+
+## Kuliah Keenam
+
+* [Kernel dalam OS](kuliah-keenam/kernel-dalam-os.md)
+* [Praktik Menjalankan Utilitas Kernel](kuliah-keenam/praktik-menjalankan-utilitas-kernel.md)
