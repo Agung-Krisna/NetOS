@@ -37,3 +37,8 @@
 
 * [Kernel dalam OS](kuliah-keenam/kernel-dalam-os.md)
 * [Praktik Menjalankan Utilitas Kernel](kuliah-keenam/praktik-menjalankan-utilitas-kernel.md)
+
+## Kuliah Kedelapan
+
+* [NetOS pada Server](kuliah-kedelapan/netos-pada-server.md)
+* [Linux dan BSD sebagai NOS](kuliah-kedelapan/linux-dan-bsd-sebagai-nos.md)
