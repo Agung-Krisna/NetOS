@@ -42,3 +42,8 @@
 
 * [NetOS pada Server](kuliah-kedelapan/netos-pada-server.md)
 * [Linux dan BSD sebagai NOS](kuliah-kedelapan/linux-dan-bsd-sebagai-nos.md)
+
+## Kuliah Kesembilan
+
+* [Security dan Threat Map](kuliah-kesembilan/security-dan-threat-map.md)
+* [Vulnerability dan SELinux](kuliah-kesembilan/vulnerability-dan-selinux.md)
