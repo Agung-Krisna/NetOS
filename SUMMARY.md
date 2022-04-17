@@ -47,3 +47,9 @@
 
 * [Security dan Threat Map](kuliah-kesembilan/security-dan-threat-map.md)
 * [Vulnerability dan SELinux](kuliah-kesembilan/vulnerability-dan-selinux.md)
+
+## Kuliah Kesepuluh
+
+* [Cloud Computing](kuliah-kesepuluh/cloud-computing.md)
+* [Service dan Deployment Model](kuliah-kesepuluh/service-dan-deployment-model.md)
+* [NOS dan Cloud](kuliah-kesepuluh/nos-dan-cloud.md)
