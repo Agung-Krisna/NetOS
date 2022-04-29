@@ -53,3 +53,9 @@
 * [Cloud Computing](kuliah-kesepuluh/cloud-computing.md)
 * [Service dan Deployment Model](kuliah-kesepuluh/service-dan-deployment-model.md)
 * [NOS dan Cloud](kuliah-kesepuluh/nos-dan-cloud.md)
+
+## Kuliah Keduabelas
+
+* [SDN](kuliah-keduabelas/sdn.md)
+* [Virtualisasi dan VMM](kuliah-keduabelas/virtualisasi-dan-vmm.md)
+* [Praktik Menggunakan Mininet](kuliah-keduabelas/praktik-menggunakan-mininet.md)
